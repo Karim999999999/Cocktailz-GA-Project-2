@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Cocktailz is a front end application running on a public Cocktail Recipe API. The project was created in 48 hours in a group of two (with [Oscar][(https://support.west-wind.com](https://github.com/SwagapottamusRex))). The front-end app features categorization and search-filter controls to direct users toward the right drink for their occasion.
+Cocktailz is a front end application running on a public Cocktail Recipe API. The project was created in 48 hours in a group of two (with [Oscar](https://github.com/SwagapottamusRex)). The front-end app features categorization and search-filter controls to direct users toward the right drink for their occasion.
 
 ## The Brief
 
