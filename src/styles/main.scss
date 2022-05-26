@@ -1,0 +1,63 @@
+@import '~bulma/bulma.sass';
+
+.navbar {
+  display: flex;
+  align-self: center;
+  padding: 10px;
+}
+
+.logo {
+  font-size: 25px;
+  color: white;
+}
+
+.alcohol-type {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.navbar-end {
+  display: flex;
+  align-self: center;
+  align-items: center;
+}
+
+#hello {
+  margin-top: 120px;
+}
+
+#title-of-section {
+  color: #DF546A;
+}
+
+#randomise {
+  margin-bottom: 5px;
+}
+
+.card {
+  background-color: #DF546A;
+  color: yellow;
+}
+
+.card-header-title {
+  color: white;
+}
+
+#head-of-page {
+  background: url('https://cdn.pixabay.com/photo/2020/12/08/14/20/cocktail-5814563_960_720.jpg');
+  background-size: cover ;
+}
+
+#hero-text{
+  background: white;
+  width: 100px;
+  padding: 20px;
+
+  h1 {
+    font-size: 40px;
+  }
+}
+
+.hero-body {
+  background-color: #ffecef;
+}
